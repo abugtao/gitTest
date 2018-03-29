@@ -14,21 +14,8 @@
 
 @implementation AppDelegate
 
-//zht
-//good luck
-
-//new good work
-
-//hello
-
-
 //dev_zht
 
-//master
-
-//dev_zht dev_zht
-
-//after_tag
 
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
