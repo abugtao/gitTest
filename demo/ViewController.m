@@ -29,6 +29,7 @@
 
     self.title = @"test1";
     self.title = @"test2";
+    self.title = @"test3";
     UIButton *leftItemButton = [UIButton buttonWithType:UIButtonTypeCustom];
     [leftItemButton setBackgroundImage:[UIImage imageNamed:@"ha"] forState:UIControlStateNormal];
     leftItemButton.frame = CGRectMake(0, 0, 30, 30);
