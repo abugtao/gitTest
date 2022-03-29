@@ -19,6 +19,7 @@
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
     self.title = @"haha";
+    self.title = @"12345";
     UIButton *leftItemButton = [UIButton buttonWithType:UIButtonTypeCustom];
     [leftItemButton setBackgroundImage:[UIImage imageNamed:@"ha"] forState:UIControlStateNormal];
     leftItemButton.frame = CGRectMake(0, 0, 30, 30);
