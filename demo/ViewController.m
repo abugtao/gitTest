@@ -24,6 +24,8 @@
     self.title = @"master";
 
     self.title = @"test";
+    
+    self.title = @"master1";
 
     UIButton *leftItemButton = [UIButton buttonWithType:UIButtonTypeCustom];
     [leftItemButton setBackgroundImage:[UIImage imageNamed:@"ha"] forState:UIControlStateNormal];
