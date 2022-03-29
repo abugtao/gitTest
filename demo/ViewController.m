@@ -26,7 +26,7 @@
     self.title = @"test";
     
     self.title = @"master1";
-
+    self.title = @"master2";
     self.title = @"test1";
     self.title = @"test2";
     UIButton *leftItemButton = [UIButton buttonWithType:UIButtonTypeCustom];
